@@ -1,0 +1,13 @@
+{
+    "lane_width_m": 3.7,
+    "focal_length_px": 1200,
+    "camera_height_m": 1.4,
+    "camera_angle_deg": 5,
+    "vanishing_point_y_factor": 0.38,
+    "advanced": {
+        "use_kalman_filter": true,
+        "speed_smoothing_factor": 0.8,
+        "max_speed_change": 10,
+        "min_detection_frames": 1
+    }
+}
