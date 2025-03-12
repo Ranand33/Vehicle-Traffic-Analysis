@@ -11,4 +11,5 @@ Statistical Analysis: Comprehensive data processing and visualization pipeline
 
 # Usage 
 Install all dependencies and run this command on a terminal
+
 `python run-traffic-analysis.py --video YourVideo.mp4 --make_model (this is optional) /YourPath/best.pt --calibration recommended_calibration.json`
