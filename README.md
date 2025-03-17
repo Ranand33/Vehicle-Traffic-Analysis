@@ -1,6 +1,6 @@
 # Vehicle-Traffic-Analysis
 ## Description
-I'm trying to build a comprehensive traffic analysis system using computer vision to detect vehicles, track movement, calculate speeds, and identify vehicle makes and models from video footage. Please suggest changes to improve the system.
+I'm trying to build a comprehensive traffic analysis system to detect cars, track movement, calculate speeds, and identify vehicle makes and models from dashcam videos. Please suggest changes to improve the system.
 
 ## Features
 Vehicle Detection: YOLOv8-based detection of cars, trucks, buses, and motorcycles
